@@ -1,0 +1,99 @@
+
+/*.Navbar {
+   width: 100%;
+  height: 100px;
+  background-color: #191215;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.Navbar.leftside{
+    flex:50%;
+    height:100%;
+    display:flex;
+    align-items: center;
+    padding-left: 100px;
+    
+} 
+ .Navbar.leftside.img{
+   max-height: 50px;
+}
+  
+.Navbar.rightside{
+    flex:50%;
+    height:100%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.Navbar a{
+    color:white;
+    text-decoration:none;
+    margin: 20px;
+} 
+.Navbar.rightside.button {
+   background-color: transparent;
+   border: none;
+   color: white;
+   cursor:  pointer;
+   
+}
+.Navbar.rightside.svg{
+    font-size:30 ;
+}*/
+
+
+.logo {
+    height: 35px;
+  }
+  
+  .MuiPaper-root.MuiAppBar-root {
+    background-color: white;
+    box-shadow: 0px 0px 8px 4px rgb(228, 228, 228);
+    position: sticky;
+    top: 0;
+    z-index: 10;
+  }
+  
+  .MuiContainer-root.MuiContainer-maxWidthXl {
+    padding: 5px 30px;
+  }
+  
+  .nav-links {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  
+  .nav-link {
+    font-size: 17px;
+    color: black;
+    text-decoration: none;
+    font-weight: 500;
+    margin-right: 40px;
+  }
+  
+  .nav-link:hover {
+    color: rgb(0, 98, 255);
+  }
+  
+  .drawerLinks a {
+    margin-top: 30px;
+  }
+  
+  .active {
+    color: rgb(0, 128, 255);
+  }
+  .MuiToolbar-root.MuiToolbar-regular {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+  }
+  @media screen and (min-width: 600px) and (max-width: 640px) {
+    .aboutUs{
+      margin-right: 0px !important;
+    }
+  }
+  
+
+
