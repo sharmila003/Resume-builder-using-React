@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Resume-builder-using-React
-=======
 # Resume Builder 
   Frontend Capstone Project @ Almabetter
 
@@ -26,10 +23,3 @@ Building  resume will  make easy and convinent.  A Free, Quick and Easy Way to C
 
 ##Video Link
 https://drive.google.com/file/d/1YtL-wSxuoTjTGXx5S5aDCbqQrzSpSAqA/view?usp=sharing=sharing
-
-
-
-
-
-
->>>>>>> ae1263e (Adding Files)
